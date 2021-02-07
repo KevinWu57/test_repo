@@ -1,0 +1,23 @@
+{
+    "GridWorld": {
+        "checkpoints": [
+            {
+                "steps": 257086,
+                "file_path": "results/GridWorld_test/GridWorld/GridWorld-257086.onnx",
+                "reward": 0.9441071575773614,
+                "creation_time": 1612679574.0841892
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 257086,
+            "file_path": "results/GridWorld_test/GridWorld.onnx",
+            "reward": 0.9441071575773614,
+            "creation_time": 1612679574.0841892
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.24.0.dev0",
+        "torch_version": "1.7.1"
+    }
+}
